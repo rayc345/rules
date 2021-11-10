@@ -1028,9 +1028,6 @@ payload:
   - DOMAIN-SUFFIX,oauthz.com
   - DOMAIN-SUFFIX,oculus.com
   - DOMAIN-SUFFIX,oculuscdn.com
-  - DOMAIN-SUFFIX,office
-  - DOMAIN-SUFFIX,office.com
-  - DOMAIN-SUFFIX,office.net
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,okex.com
